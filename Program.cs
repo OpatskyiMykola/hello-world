@@ -107,6 +107,7 @@ namespace LeftCrossing
             PrintVector(eta);
 
             Console.WriteLine("\n\nMy result: ");
+            Console.WriteLine("\n\nMy result: ");
             var y = Back(ksi, eta);
             PrintVector(y);
 
